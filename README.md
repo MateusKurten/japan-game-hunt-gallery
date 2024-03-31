@@ -10,7 +10,7 @@ In Japan, there are several second-hand shops that sell retro games. Its prices 
 
 No Japão, existem várias lojas de segunda mão que vendem jogos retrô. Seus preços podem variar devido à raridade, localização ou condição. Um exemplo é que áreas turísticas tendem a ter itens mais caros do que áreas remotas. Este aplicativo tem como objetivo manter um registro do estoque que essas lojas têm por várias razões, mas principalmente para comparação de preços.
 
-## Instalation
+## Installation
 
 ```
 npm install
